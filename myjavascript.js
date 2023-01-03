@@ -194,7 +194,7 @@
 // document.getElementById("demo").innerHTML = "The text from the intro paragraph is: " + hoc.innerHTML;   
 // }
 // tim kiem element bang class name 
-
+// const hoc2 = document.getElementsByClassName("huy3");
 // tim kiem element bang tag name
 // tim kiem element bang css selector
 // tim kiem element bang object collection
