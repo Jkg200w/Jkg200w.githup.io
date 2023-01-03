@@ -189,11 +189,12 @@
 // html document
 // Dom element :
 // tim kiem element bang Id 
-function getdomelement (){
-const hoc = document.getElementById("h12");
-document.getElementById("demo").innerHTML = "The text from the intro paragraph is: " + hoc.innerHTML;   
-}
+// function getdomelement (){
+// const hoc = document.getElementById("h12");
+// document.getElementById("demo").innerHTML = "The text from the intro paragraph is: " + hoc.innerHTML;   
+// }
 // tim kiem element bang class name 
+
 // tim kiem element bang tag name
 // tim kiem element bang css selector
 // tim kiem element bang object collection
