@@ -202,3 +202,13 @@
 // const hoc4 = document.querySelector("p.huy3");
 // tim kiem element bang object collection
 // const hoc5 = document.forms["fr2"];
+
+// changing html element
+// + Thay doi dung trong the html dung innerHTML
+// document.getElementById("h12").innerHTML= "huy thu 2";
+// ++ Thay doi gia tri cua attribute 
+// document.getElementById("h12").style.color = "green";
+// +  Dynamic html content 
+// document.getElementById("h12").innerHTML = "Date:"+ Date();
+// + document.write() viet truc tiep lem html
+// document.write("huy thu6");
